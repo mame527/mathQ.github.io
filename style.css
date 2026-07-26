@@ -1,0 +1,43 @@
+body {
+    font-family: "Nunito", sans-serif;
+    background-color: #F5F7FA;
+    color: black;
+    text-align: center;
+    height: auto;
+    width: auto;
+    letter-spacing: 3px;
+
+}
+
+p {
+    font-size: 70px;
+    display: inline-block;
+}
+
+h3 {
+    font-size: 45px;
+}
+
+div1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+header {
+    background-color: #01889F;
+    border-radius: 15px;
+    color: white;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 50px;
+    color: burlywood;
+}
+
+button {
+    border-radius: 6px;
+    background-color: #01889F;
+    color: white;
+    border: none;
+}
